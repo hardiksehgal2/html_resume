@@ -11,7 +11,7 @@ A clean and simple static resume website built using pure HTML and deployed usin
 ## 📌 Features
 
 - Clean resume layout
-- Experience table
+- Learned to make table
 - Skills section
 - Contact information
 - Fully responsive basic structure
@@ -79,7 +79,3 @@ To deploy:
 **LinkedIn:** https://www.linkedin.com/in/hardik-sehgal-8086731b5/
 
 ---
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
